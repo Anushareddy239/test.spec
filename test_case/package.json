@@ -1,0 +1,20 @@
+{
+  "name": "test-case",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^7.6.0",
+    "@playwright/test": "^1.28.1",
+    "@typescript-eslint/eslint-plugin": "^5.44.0",
+    "@typescript-eslint/parser": "^5.44.0",
+    "allure-commandline": "^2.20.1",
+    "allure-playwright":"2.0.0-beta.20",
+    "eslint": "^8.28.0",
+    "eslint-plugin-playwright": "^0.11.2"
+  }
+}

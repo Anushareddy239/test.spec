@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Nov 25 10:46:57 IST 2022","Fri Nov 25 10:47:13 IST 2022","15468","chromium","home.spec.ts","home","","","open Mhe",""
+"passed","Fri Nov 25 10:47:05 IST 2022","Fri Nov 25 10:47:17 IST 2022","11886","chromium","practise.spec.ts","practise","","","Unnamed",""
+"failed","Fri Nov 25 10:47:05 IST 2022","Fri Nov 25 10:47:22 IST 2022","17014","chromium","practise.spec.ts","practise","","","open Mhe",""
+"failed","Fri Nov 25 10:47:05 IST 2022","Fri Nov 25 10:47:21 IST 2022","15475","chromium","practise.spec.ts","practise","","","open Mhe visible",""
